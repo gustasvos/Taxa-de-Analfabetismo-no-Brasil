@@ -1,3 +1,4 @@
 # Taxa-de-analfabetismo-no-Brasil
 Estudo da biblioteca pandas.
 Análise de dados públicos sobre a taxa de analfabetismo no Brasil.
+Arquivo para os dados disponível em: http://dados.gov.br/dataset/indicador-da-juventude-taxa-de-analfabetismo
